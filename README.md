@@ -41,7 +41,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&margin-w=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShivaPondurthi&theme=tokyonight&margin-w=10&no-frame=true" />
 </p>
 
 ---
@@ -61,9 +61,9 @@
 ### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-  <a href="mailto:youremail@example.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://twitter.com/yourprofile" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/shivasaiPondurthi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="mailto:pondurthishiva19@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://twitter.com/ShivasaiPondurthi" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/></a>
 </p>
 
 ---

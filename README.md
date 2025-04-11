@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center">Hey 👋, I'm Shivasai Kumar Pondurthi</h1>
-<h3 align="center">🚀 Innovation Enthusiast | 💻 Full-Stack Developer | 🤖 AI Explorer</h3>
+<h3 align="center">🚀 Innovation Enthusiast | 💻 Full-Stack Developer | 🤖 AI Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=435&lines=Innovate.+Build.+Repeat.;Full+Stack+Dev+%7C+AI+Builder;Tech+that+matters+%F0%9F%9A%80" alt="Typing SVG" />
